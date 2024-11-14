@@ -1,0 +1,23 @@
+[33mcommit 28b04ac83b499f09211164bc87f96bb52d8a375e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Huynh Anh Khoa <hanhkhoatptg@gmail.com>
+Date:   Thu Nov 14 15:20:59 2024 +0700
+
+    Git toan bo noi dung - Demo 1
+
+[33mcommit acd1cc806ec76706340c53f3c1432da6e7e7c2ba[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anh Khoa <hanhkhoatptg@gmail.com>
+Date:   Sat Nov 9 14:22:46 2024 +0700
+
+    Update index.html file
+
+[33mcommit 3518f25fd208c80b23a58b94960f0cb8d2a359cb[m
+Author: Anh Khoa <hanhkhoatptg@gmail.com>
+Date:   Sat Nov 9 14:21:32 2024 +0700
+
+    Add css file vao
+
+[33mcommit c06408677235531b32a2e5706f234e05c5ecbc1b[m
+Author: Anh Khoa <hanhkhoatptg@gmail.com>
+Date:   Sat Nov 9 14:16:42 2024 +0700
+
+    Add demontrations to learning GIT
